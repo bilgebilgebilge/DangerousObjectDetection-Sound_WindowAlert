@@ -4,6 +4,7 @@ In Short:
 Running this project is easy! Just run the "run.bat" file once, and it will handle everything. The necessary dependencies will be installed, and the project will be ready for use. You won’t need to manually install anything after the initial setup. Enjoy using the object detection alerts without worrying about dependencies!
 
 This project uses the YOLOv8 model to detect dangerous objects in a video stream and provides both audio and visual alerts.  All necessary dependencies and configurations are integrated into the provided files, making it easy for you to run the project with minimal setup.
+![Resim Açıklaması](screenshot.jpg)
 
 ## 🔍 Features
 - ⚡ **YOLOv8** based object detection
